@@ -293,7 +293,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-Made with ❤️ by [ammar nazmo](https://github.com/ammarnazmi)
+Made with ❤️ by [ammar nazmi](https://github.com/ammarnazmi)
 
 ⭐ **If this project helped you, give it a star!** ⭐
 
